@@ -2,7 +2,7 @@
 ## World's First Temporary Wallet Technology + Revolutionary Multi-Chain Escrow Platform + WalletX AI Assistance & QR Integration
 
 
-> **🎥 Video Demo**: [youtube.com/walletx](https://youtu.be/iV3gFBM5AlY)  
+> **🎥 Video Demo**: [youtube.com/walletx](https://youtu.be/Kz2LqCpHSX0)  
 > **⚡ Live Demo**: [walletx.software](https://walletx.software)  
 > **🤝 Trustless** | **🌐 Multi-Chain** | **📱 Production Ready** | **🤖 AI-Powered**
 
